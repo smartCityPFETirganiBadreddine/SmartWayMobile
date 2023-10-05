@@ -1,0 +1,5 @@
+rootProject.name = 'react-native-template-argon'
+
+include ':app'
+
+// Additional module configurations can be added here
